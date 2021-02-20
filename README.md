@@ -65,7 +65,7 @@ In this repository, I will try to solve a list of 75 problems:
 
 ---
 
-Linked List
+## Linked List
 
 - Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
