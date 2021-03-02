@@ -3,9 +3,9 @@ In this repository, I will try to solve a list of 75 problems and more!
 
 ## Array
 
-- [x] Two Sum - https://leetcode.com/problems/two-sum/ 
-- [x] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-- [x] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
+- [x] 1E. Two Sum - https://leetcode.com/problems/two-sum/ 
+- [x] 121E. Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- [x] 217E. Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
 - [ ] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
 - [ ] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - [ ] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
@@ -18,7 +18,7 @@ In this repository, I will try to solve a list of 75 problems and more!
 
 ## Binary
 
-- [x] Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
+- [x] 371M. Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
 - [ ] Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
 - [ ] Counting Bits - https://leetcode.com/problems/counting-bits/
 - [ ] Missing Number - https://leetcode.com/problems/missing-number/
@@ -67,8 +67,8 @@ In this repository, I will try to solve a list of 75 problems and more!
 
 ## Linked List
 
-- [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+- [x] 206E. Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- [x] 141E. Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - [ ] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
@@ -90,7 +90,7 @@ In this repository, I will try to solve a list of 75 problems and more!
 - [ ] Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - [ ] Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - [ ] Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
-- [x] Valid Anagram - https://leetcode.com/problems/valid-anagram/
+- [x] 242E. Valid Anagram - https://leetcode.com/problems/valid-anagram/
 - [ ] Group Anagrams - https://leetcode.com/problems/group-anagrams/
 - [ ] Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 - [ ] Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
@@ -102,8 +102,8 @@ In this repository, I will try to solve a list of 75 problems and more!
 
 ## Tree
 
-- [x] Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
-- [x] Same Tree - https://leetcode.com/problems/same-tree/
+- [x] 104E. Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- [x] 100E. Same Tree - https://leetcode.com/problems/same-tree/
 - [ ] Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
 - [ ] Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
 - [ ] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
@@ -126,3 +126,7 @@ In this repository, I will try to solve a list of 75 problems and more!
 - [ ] Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
 
 ~~ Credit goes to the post at Blind: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+
+## Extras
+
+- [x] 704E. Binary Search - https://leetcode.com/problems/binary-search/
